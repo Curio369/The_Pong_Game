@@ -46,6 +46,18 @@ git clone https://github.com/your-username/the-pong-game.git
 cd the-pong-game
 python main.py
 ---
+---
 
 ## 🗂️ Project Structure
+
+The_Pong_Game/
+├── main.py # Game entry point
+├── paddle.py # Paddle movement logic
+├── ball.py # Ball physics & motion
+├── Scoreboard.py # Score display and updates
+├── .gitignore
+└── README.md
+
+
+---
 
