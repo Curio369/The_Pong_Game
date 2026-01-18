@@ -18,6 +18,7 @@ class Scoreboard(Turtle):
 
     def l_point(self):
         self.l_score += 1
+        print(f"Left score: {self.l_score}")  # Debug line
         self.update_scoreboard()
 
     def r_point(self):
