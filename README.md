@@ -45,3 +45,7 @@ No bloated UI. Just gameplay.
 git clone https://github.com/your-username/the-pong-game.git
 cd the-pong-game
 python main.py
+---
+
+## 🗂️ Project Structure
+
