@@ -9,9 +9,9 @@ Simple mechanics, smooth controls, and pure arcade vibes.
 
 ## 🎮 Preview
 
-![Pong Gameplay](https://media.giphy.com/media/3o7TKsQx5WJ8Qm4G9y/giphy.gif)
+![Pong Gameplay]([https://media.giphy.com/media/3o7TKsQx5WJ8Qm4G9y/giphy.gif](https://media.tenor.com/7CvEKnPqfUYAAAAi/sharplink-gaming-sharplink.gif))
 
-*(Gameplay GIF — replace with your own if you want)*
+
 
 ---
 
